@@ -1,0 +1,81 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    background-color:hsl(210, 60%, 98%);
+    
+
+}
+
+.container{
+ width: 600px;
+ padding: 0px 25px;
+ background-color: hsl(0, 0%, 100%);
+ justify-content: center;
+ border-spacing: 10px;
+ 
+}
+
+h4{
+    color:hsl(219, 85%, 26%) ;
+}
+p {
+    color:hsl(219, 14%, 63%);
+}
+.c1{
+    color: hsl(219, 85%, 26%);
+}
+
+.c2{
+    color: hsl(219, 14%, 63%);
+}
+.c3{
+    color:hsl(219, 12%, 42%);
+}
+.bold{
+    color: black;
+}
+.p2{
+    padding:15px 10px;
+    background-color: hsl(211, 68%, 94%);
+}
+.box{
+    display: inline-block;
+    background-color:hsl(219, 85%, 26%);
+    padding: 2px 10px;
+    border-radius: 4px;
+    color: hsl(0, 0%, 100%);
+    
+}
+.div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:10px;
+    font-size: 16px; 
+}
+.bg{
+    background-color: hsl(211, 68%, 94%);
+}
+.div1{
+    
+    padding: 5px;
+
+    /* background-color: hsl(219, 14%, 63%); */
+    /* background-color: hsl(205, 33%, 90%); */
+    /* background-color:hsl(211, 68%, 94%); */
+}
+img{
+    width: 50px;
+    height: 50px;
+    padding: 10px 10px;
+}
